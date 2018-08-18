@@ -8,4 +8,5 @@ Main contributor : Lancel Thaledric (thaledric@gmail.com)
 
 This library is written in Javascript. You need a Javascript runtime like [Node.js](https://nodejs.org/) to use it.
 
-The renderer uses [Image Magick](https://www.imagemagick.org/script/index.php) as its graphical library.
+The renderer uses [ImageMagick](https://www.imagemagick.org/script/index.php) as its graphical library. You DO need to have it installed in the running environment.
+NOTE : The sfm-renderer is used only for the server-side and command-line. The front-end doesn't need it, nor ImageMagick.
