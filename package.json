@@ -6,5 +6,15 @@
   "repository": "https://github.com/SuperFuncardMaker/sfm-renderer.git",
   "author": "Lancel Thaledric <thaledric@gmail.com>",
   "license": "GPL",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "gm": "^1.23.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  },
+  "scripts": {
+    "tsc": "tsc --watch",
+    "tsc:build": "tsc"
+  }
 }
