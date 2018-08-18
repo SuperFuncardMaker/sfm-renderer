@@ -1,0 +1,10 @@
+{
+  "name": "sfm-renderer",
+  "version": "0.1.0",
+  "description": "Core image renderer for Super Funcard Maker",
+  "main": "index.js",
+  "repository": "https://github.com/SuperFuncardMaker/sfm-renderer.git",
+  "author": "Lancel Thaledric <thaledric@gmail.com>",
+  "license": "GPL",
+  "private": true
+}
