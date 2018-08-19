@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+"@types/gm@^1.18.0":
+  version "1.18.0"
+  resolved "https://registry.yarnpkg.com/@types/gm/-/gm-1.18.0.tgz#49be90ff74286fcdc23b00f13d3699e6dfaceef2"
+  dependencies:
+    "@types/node" "*"
+
+"@types/node@*":
+  version "10.7.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.7.1.tgz#b704d7c259aa40ee052eec678758a68d07132a2e"
+
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
@@ -109,6 +119,10 @@ diff@^3.2.0:
 escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
+
+esm@^3.0.77:
+  version "3.0.77"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.0.77.tgz#9c81e3f4c8e422b86d525d0d365665825af8dfae"
 
 esprima@^4.0.0:
   version "4.0.1"
