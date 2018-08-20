@@ -120,9 +120,9 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-esm@^3.0.77:
-  version "3.0.77"
-  resolved "https://registry.yarnpkg.com/esm/-/esm-3.0.77.tgz#9c81e3f4c8e422b86d525d0d365665825af8dfae"
+esm@^3.0.79:
+  version "3.0.79"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.0.79.tgz#19d0c8b8c574b36826df05d0f49c78d70619668c"
 
 esprima@^4.0.0:
   version "4.0.1"
