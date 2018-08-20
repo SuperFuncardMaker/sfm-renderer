@@ -3,7 +3,6 @@
         "alwaysStrict": true,
         "baseUrl": ".",
         "declaration": true,
-        "declarationDir": "typings",
         "declarationMap": true,
         "module": "esnext",
         "noImplicitAny": true,
